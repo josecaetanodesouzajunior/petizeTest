@@ -1,7 +1,7 @@
 # petizeTest
 Teste de algorítimo realizado para a empresa Petize 
 
-Instruções
+Instruções:
 Os problemas propostos nesse teste devem ser resolvidos em linguagem Java.
 Ao fim do teste, envie o projeto Java e um arquivo txt com as respostas para o aplicador do teste.
 Questões
