@@ -1,0 +1,1094 @@
+================================
+Nome: Violet
+Sobrenome: Miller
+================================
+================================
+Nome: Elijah
+Sobrenome: Hayes
+================================
+================================
+Nome: Audrey
+Sobrenome: Hayes
+================================
+================================
+Nome: Lillian
+Sobrenome: Diaz
+================================
+================================
+Nome: Madison
+Sobrenome: Anderson
+================================
+================================
+Nome: Christopher
+Sobrenome: Taylor
+================================
+================================
+Nome: Samuel
+Sobrenome: Williams
+================================
+================================
+Nome: Skylar
+Sobrenome: Miller
+================================
+================================
+Nome: Bella
+Sobrenome: Johnson
+================================
+================================
+Nome: Scarlett
+Sobrenome: Anderson
+================================
+================================
+Nome: Natalie
+Sobrenome: Hayes
+================================
+================================
+Nome: Eleanor
+Sobrenome: Diaz
+================================
+================================
+Nome: Aubrey
+Sobrenome: Hayes
+================================
+================================
+Nome: Gabriel
+Sobrenome: Johnson
+================================
+================================
+Nome: Alexander
+Sobrenome: Alexander
+================================
+================================
+Nome: Anthony
+Sobrenome: Taylor
+================================
+================================
+Nome: Matthew
+Sobrenome: Diaz
+================================
+================================
+Nome: Michael
+Sobrenome: Griffin
+================================
+================================
+Nome: Harper
+Sobrenome: Jones
+================================
+================================
+Nome: Ethan
+Sobrenome: Griffin
+================================
+================================
+Nome: Wyatt
+Sobrenome: Jones
+================================
+================================
+Nome: Lincoln
+Sobrenome: Wilson
+================================
+================================
+Nome: Aurora
+Sobrenome: Smith
+================================
+================================
+Nome: Carter
+Sobrenome: Smith
+================================
+================================
+Nome: Daniel
+Sobrenome: Griffin
+================================
+================================
+Nome: Joseph
+Sobrenome: Taylor
+================================
+================================
+Nome: Mateo
+Sobrenome: Davis
+================================
+================================
+Nome: Ava
+Sobrenome: Johnson
+================================
+================================
+Nome: Jaxon
+Sobrenome: Davis
+================================
+================================
+Nome: Elizabeth
+Sobrenome: Taylor
+================================
+================================
+Nome: John
+Sobrenome: Smith
+================================
+================================
+Nome: Levi
+Sobrenome: Wilson
+================================
+================================
+Nome: Leo
+Sobrenome: Johnson
+================================
+================================
+Nome: Stella
+Sobrenome: Hayes
+================================
+================================
+Nome: Emma
+Sobrenome: Johnson
+================================
+================================
+Nome: Liam
+Sobrenome: Davis
+================================
+================================
+Nome: Oliver
+Sobrenome: Hayes
+================================
+================================
+Nome: Asher
+Sobrenome: Brown
+================================
+================================
+Nome: Savannah
+Sobrenome: Hayes
+================================
+================================
+Nome: Nathan
+Sobrenome: Miller
+================================
+Usuário já cadastrado!
+================================
+Nome: Matthew
+Sobrenome: Diaz
+================================
+================================
+Nome: Aria
+Sobrenome: Davis
+================================
+================================
+Nome: Ellie
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Levi
+Sobrenome: Wilson
+================================
+================================
+Nome: Benjamin
+Sobrenome: Hayes
+================================
+================================
+Nome: Nora
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Aurora
+Sobrenome: Smith
+================================
+================================
+Nome: Luke
+Sobrenome: Brown
+================================
+Usuário já cadastrado!
+================================
+Nome: Madison
+Sobrenome: Anderson
+================================
+================================
+Nome: Charlotte
+Sobrenome: Miller
+================================
+================================
+Nome: Addison
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Samuel
+Sobrenome: Williams
+================================
+================================
+Nome: Olivia
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Natalie
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Skylar
+Sobrenome: Miller
+================================
+================================
+Nome: Noah
+Sobrenome: Miller
+================================
+================================
+Nome: Aiden
+Sobrenome: Diaz
+================================
+================================
+Nome: Grayson
+Sobrenome: Smith
+================================
+================================
+Nome: Hannah
+Sobrenome: Williams
+================================
+================================
+Nome: Chloe
+Sobrenome: Brown
+================================
+================================
+Nome: Emily
+Sobrenome: Wilson
+================================
+Usuário já cadastrado!
+================================
+Nome: Liam
+Sobrenome: Davis
+================================
+================================
+Nome: Logan
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Bella
+Sobrenome: Johnson
+================================
+================================
+Nome: Thomas
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Nathan
+Sobrenome: Miller
+================================
+================================
+Nome: Victoria
+Sobrenome: Smith
+================================
+================================
+Nome: Lucas
+Sobrenome: Taylor
+================================
+================================
+Nome: Claire
+Sobrenome: Griffin
+================================
+Usuário já cadastrado!
+================================
+Nome: Joseph
+Sobrenome: Taylor
+================================
+================================
+Nome: Mila
+Sobrenome: Jones
+================================
+================================
+Nome: Riley
+Sobrenome: Taylor
+================================
+================================
+Nome: Dylan
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Gabriel
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Daniel
+Sobrenome: Griffin
+================================
+Usuário já cadastrado!
+================================
+Nome: Aubrey
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Eleanor
+Sobrenome: Diaz
+================================
+================================
+Nome: Lily
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Harper
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Anthony
+Sobrenome: Taylor
+================================
+================================
+Nome: Amelia
+Sobrenome: Brown
+================================
+================================
+Nome: Sofia
+Sobrenome: Wilson
+================================
+================================
+Nome: Andrew
+Sobrenome: Anderson
+================================
+Usuário já cadastrado!
+================================
+Nome: Ava
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Natalie
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Emma
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Stella
+Sobrenome: Hayes
+================================
+================================
+Nome: Theodore
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Elizabeth
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Daniel
+Sobrenome: Griffin
+================================
+================================
+Nome: James
+Sobrenome: Smith
+================================
+================================
+Nome: Ella
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Addison
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Aubrey
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Eleanor
+Sobrenome: Diaz
+================================
+Usuário já cadastrado!
+================================
+Nome: Savannah
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Asher
+Sobrenome: Brown
+================================
+Usuário já cadastrado!
+================================
+Nome: Aria
+Sobrenome: Davis
+================================
+================================
+Nome: Mason
+Sobrenome: Griffin
+================================
+================================
+Nome: Isaac
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Skylar
+Sobrenome: Miller
+================================
+Usuário já cadastrado!
+================================
+Nome: Nora
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Joseph
+Sobrenome: Taylor
+================================
+================================
+Nome: Isabella
+Sobrenome: Wilson
+================================
+Usuário já cadastrado!
+================================
+Nome: Thomas
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Anthony
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Aurora
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Elijah
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Noah
+Sobrenome: Miller
+================================
+Usuário já cadastrado!
+================================
+Nome: Violet
+Sobrenome: Miller
+================================
+Usuário já cadastrado!
+================================
+Nome: Luke
+Sobrenome: Brown
+================================
+================================
+Nome: Penelope
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Audrey
+Sobrenome: Hayes
+================================
+================================
+Nome: Zoe
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Charlotte
+Sobrenome: Miller
+================================
+================================
+Nome: Luna
+Sobrenome: Anderson
+================================
+Usuário já cadastrado!
+================================
+Nome: Logan
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Lucas
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Ellie
+Sobrenome: Davis
+================================
+================================
+Nome: Jayden
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Violet
+Sobrenome: Miller
+================================
+================================
+Nome: Jacob
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Addison
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Wyatt
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Ellie
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Isabella
+Sobrenome: Wilson
+================================
+Usuário já cadastrado!
+================================
+Nome: Aria
+Sobrenome: Davis
+================================
+================================
+Nome: Jack
+Sobrenome: Anderson
+================================
+Usuário já cadastrado!
+================================
+Nome: Riley
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Natalie
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Zoe
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Christopher
+Sobrenome: Taylor
+================================
+================================
+Nome: Sophia
+Sobrenome: Miller
+================================
+================================
+Nome: Leah
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Luna
+Sobrenome: Anderson
+================================
+Usuário já cadastrado!
+================================
+Nome: Harper
+Sobrenome: Jones
+================================
+================================
+Nome: David
+Sobrenome: Brown
+================================
+Usuário já cadastrado!
+================================
+Nome: Eleanor
+Sobrenome: Diaz
+================================
+Usuário já cadastrado!
+================================
+Nome: Victoria
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Nathan
+Sobrenome: Miller
+================================
+Usuário já cadastrado!
+================================
+Nome: Benjamin
+Sobrenome: Hayes
+================================
+================================
+Nome: Hazel
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Asher
+Sobrenome: Brown
+================================
+================================
+Nome: Mia
+Sobrenome: Johnson
+================================
+================================
+Nome: William
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Mila
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Nora
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Daniel
+Sobrenome: Griffin
+================================
+================================
+Nome: Sebastian
+Sobrenome: Johnson
+================================
+================================
+Nome: Henry
+Sobrenome: Diaz
+================================
+Usuário já cadastrado!
+================================
+Nome: Emma
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Audrey
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Elizabeth
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Aurora
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Stella
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: James
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: John
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Carter
+Sobrenome: Smith
+================================
+Usuário já cadastrado!
+================================
+Nome: Savannah
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Jayden
+Sobrenome: Jones
+================================
+================================
+Nome: Layla
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Eleanor
+Sobrenome: Diaz
+================================
+Usuário já cadastrado!
+================================
+Nome: Lincoln
+Sobrenome: Wilson
+================================
+Usuário já cadastrado!
+================================
+Nome: Dylan
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Madison
+Sobrenome: Anderson
+================================
+Usuário já cadastrado!
+================================
+Nome: William
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Lucas
+Sobrenome: Taylor
+================================
+================================
+Nome: Camila
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Thomas
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Audrey
+Sobrenome: Hayes
+================================
+Usuário já cadastrado!
+================================
+Nome: Isaac
+Sobrenome: Jones
+================================
+================================
+Nome: Avery
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Jayden
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: David
+Sobrenome: Brown
+================================
+Usuário já cadastrado!
+================================
+Nome: Violet
+Sobrenome: Miller
+================================
+Usuário já cadastrado!
+================================
+Nome: Lily
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Liam
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Riley
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Bella
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Zoe
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Harper
+Sobrenome: Jones
+================================
+Usuário já cadastrado!
+================================
+Nome: Leo
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Mason
+Sobrenome: Griffin
+================================
+Usuário já cadastrado!
+================================
+Nome: Sophia
+Sobrenome: Miller
+================================
+Usuário já cadastrado!
+================================
+Nome: Joseph
+Sobrenome: Taylor
+================================
+================================
+Nome: Evelyn
+Sobrenome: Brown
+================================
+Usuário já cadastrado!
+================================
+Nome: Emma
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Daniel
+Sobrenome: Griffin
+================================
+Usuário já cadastrado!
+================================
+Nome: Samuel
+Sobrenome: Williams
+================================
+Usuário já cadastrado!
+================================
+Nome: Andrew
+Sobrenome: Anderson
+================================
+Usuário já cadastrado!
+================================
+Nome: Elizabeth
+Sobrenome: Taylor
+================================
+Usuário já cadastrado!
+================================
+Nome: Ethan
+Sobrenome: Griffin
+================================
+================================
+Nome: Julian
+Sobrenome: Anderson
+================================
+Usuário já cadastrado!
+================================
+Nome: Penelope
+Sobrenome: Smith
+================================
+================================
+Nome: Jackson
+Sobrenome: Diaz
+================================
+================================
+Nome: Brooklyn
+Sobrenome: Hayes
+================================
+================================
+Nome: Abigail
+Sobrenome: Johnson
+================================
+Usuário já cadastrado!
+================================
+Nome: Aria
+Sobrenome: Davis
+================================
+Usuário já cadastrado!
+================================
+Nome: Michael
+Sobrenome: Griffin
+================================
+Usuário já cadastrado!
+================================
+Nome: Addison
+Sobrenome: Davis
+================================
+Aluno: Alexander Alexander - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Andrew Anderson - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Jack Anderson - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Julian Anderson - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Luna Anderson - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Madison Anderson - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Scarlett Anderson - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Amelia Brown - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Asher Brown - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Chloe Brown - Horas de aulas por semana: 01:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: David Brown - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Evelyn Brown - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Luke Brown - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Addison Davis - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Aria Davis - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Ellie Davis - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Jaxon Davis - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Layla Davis - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Leah Davis - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Liam Davis - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Lily Davis - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Mateo Davis - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: William Davis - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Aiden Diaz - Horas de aulas por semana: 01:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Eleanor Diaz - Horas de aulas por semana: 12:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Henry Diaz - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Jackson Diaz - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Lillian Diaz - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Matthew Diaz - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Claire Griffin - Horas de aulas por semana: 01:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Daniel Griffin - Horas de aulas por semana: 12:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Ethan Griffin - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Mason Griffin - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Michael Griffin - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Aubrey Hayes - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Audrey Hayes - Horas de aulas por semana: 11:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Benjamin Hayes - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Brooklyn Hayes - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Elijah Hayes - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Natalie Hayes - Horas de aulas por semana: 09:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Oliver Hayes - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Savannah Hayes - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Stella Hayes - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Abigail Johnson - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Ava Johnson - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Bella Johnson - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Camila Johnson - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Ella Johnson - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Emma Johnson - Horas de aulas por semana: 11:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Gabriel Johnson - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Leo Johnson - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Mia Johnson - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Sebastian Johnson - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Thomas Johnson - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Avery Jones - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 359.88 - Mensalidade em Fevereiro: R$ 269.91 - Mensalidade em Março: R$ 385.73
+
+Aluno: Dylan Jones - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Harper Jones - Horas de aulas por semana: 10:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Isaac Jones - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Jayden Jones - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Mila Jones - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Wyatt Jones - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Charlotte Miller - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Nathan Miller - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Noah Miller - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Skylar Miller - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Sophia Miller - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Violet Miller - Horas de aulas por semana: 11:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Aurora Smith - Horas de aulas por semana: 09:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Carter Smith - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Grayson Smith - Horas de aulas por semana: 01:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Hazel Smith - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: James Smith - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: John Smith - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Olivia Smith - Horas de aulas por semana: 01:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Penelope Smith - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Victoria Smith - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Anthony Taylor - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Christopher Taylor - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Elizabeth Taylor - Horas de aulas por semana: 11:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Joseph Taylor - Horas de aulas por semana: 10:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Lucas Taylor - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Riley Taylor - Horas de aulas por semana: 06:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Theodore Taylor - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Hannah Williams - Horas de aulas por semana: 01:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Jacob Williams - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Logan Williams - Horas de aulas por semana: 03:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Nora Williams - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Samuel Williams - Horas de aulas por semana: 08:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Zoe Williams - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Emily Wilson - Horas de aulas por semana: 01:00 - Mensalidade em Janeiro: R$ 119.96 - Mensalidade em Fevereiro: R$ 119.96 - Mensalidade em Março: R$ 128.58
+
+Aluno: Isabella Wilson - Horas de aulas por semana: 04:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
+Aluno: Levi Wilson - Horas de aulas por semana: 05:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Lincoln Wilson - Horas de aulas por semana: 07:00 - Mensalidade em Janeiro: R$ 479.84 - Mensalidade em Fevereiro: R$ 479.84 - Mensalidade em Março: R$ 642.89
+
+Aluno: Sofia Wilson - Horas de aulas por semana: 02:00 - Mensalidade em Janeiro: R$ 299.90 - Mensalidade em Fevereiro: R$ 239.92 - Mensalidade em Março: R$ 257.16
+
